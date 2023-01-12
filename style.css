@@ -1,0 +1,28 @@
+body{
+    margin: 1;
+    padding: 0;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.box{
+    width: 30vw;
+    height: 20vh;
+    background-color: aqua;
+    border-radius: 10px;
+    margin: 0;
+    padding: 0;
+
+    background-color: aqua;
+    border-color: brown;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
